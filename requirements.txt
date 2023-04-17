@@ -1,5 +1,5 @@
 gradio==3.5
 python-dotenv==0.21.0
-whisper @ git+https://github.com/openai/whisper.git
+whisper @ git+https://github.com/openai/whisper.git@6dea21fd7f7253bfe450f1e2512a0fe47ee2d258
 pytube==12.1.0
 moviepy==1.0.3
